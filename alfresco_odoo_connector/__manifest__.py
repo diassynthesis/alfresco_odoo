@@ -4,7 +4,7 @@
     'version': '1.0.1',
     'summary': 'Alfresco connection with Odoo',
     'category': 'Extra Tools',
-    'author': 'Planet-Odoo',
+    'author': 'Planet-Odoo - With contribution from MS.BARA diassynthesis@gmail.com',
     'maintainer': 'Planet-Odoo',
     'company': 'Planet-Odoo',
     'website': 'http://www.planet-odoo.com/',
